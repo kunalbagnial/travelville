@@ -1,0 +1,22 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+.section-search input{
+    padding:5px !important;
+    font-size:18px !important;
+    width:90% !important;
+    border:#f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x{
+    margin:5px 10px;
+}
+
+hr{
+    border: 0;
+    height: 1px;
+    background-color:rgba(230, 230, 230, 0.87);
+    width:60%;
+}
