@@ -2,10 +2,6 @@ html{
     scroll-behavior: smooth;
 }
 
-body{
-    overflow-x: hidden;
-}
-
 
 .section-search input{
     padding:5px !important;
@@ -16,10 +12,6 @@ body{
 
 .section-follow .fa-4x{
     margin:5px 10px;
-}
-
-.section-testimonial .fa-star,.fa-star-half-alt{
-    color: #3949ab;
 }
 
 hr{
