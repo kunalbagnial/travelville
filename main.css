@@ -2,6 +2,10 @@ html{
     scroll-behavior: smooth;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 
 .section-search input{
     padding:5px !important;
@@ -14,11 +18,8 @@ html{
     margin:5px 10px;
 }
 
-hr{
-    border: 0;
-    height: 1px;
-    background-color:rgba(230, 230, 230, 0.87);
-    width:60%;
+.section-testimonial .fa-star,.fa-star-half-alt{
+    color: #3949ab;
 }
 
 .dropdown-content li>span{
